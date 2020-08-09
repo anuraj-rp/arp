@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Anuraj R."
   avatar : "/assets/images/profile.jpg"
-  bio    : "SpaceTech,Robotics,Embedded Systems"
+  bio    : "SpaceTech, Robotics,<br> Embedded Systems"
   links:
           #- label: "Website"
           #icon: "fas fa-fw fa-link"
