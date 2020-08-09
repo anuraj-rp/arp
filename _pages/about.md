@@ -1,7 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+permalink: /
+title: "About Me"
 classes: wide
+header:
+  overlay_image: /assets/images/earth_rise.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
 Hello and welcome to my small corner on the Internet.
