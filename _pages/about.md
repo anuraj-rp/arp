@@ -7,7 +7,10 @@ header:
   overlay_image: /assets/images/earth_rise.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
+classes: wide
 ---
+
+{% include figure image_path="/assets/images/curiosityPic2.jpg" %}{: .align-right}
 
 Hello and welcome to my small corner on the Internet.
 
@@ -18,6 +21,8 @@ I have been building hardware and software for around a decade, first in academi
 Currently I am working as Software Engineer with some awesome people at [Unikie][Unikie] on 5G Technology.
 
 Regarding my education, I got my first master’s degree in Space Technology and Robotics from Erasmus Mundus SpaceMaster Programme after which I spent some time building hardware for robots. I then worked on printed electronics for a few years. But at present I am on hiatus from the world of Robotics and Space Tech. and currently work on 5G Technology. In brief, my plan was to be an academic, but I made a pivot to industry in 2015. I am also currently enrolled at the University of Oulu studying Product Management. 
+
+{% include figure image_path="/assets/images/research_pic2.jpg" %}{: .align-left}
 
 I was planning to study Field Robotics for my doctoral studies particularly Evolutionary Robotics. I have been fascinated by Evolution for almost a decade and keep reading research articles on it whenever I have free time. Had I started my PhD I would have studied Evolutionary and Genetic Algorithms in the context of Robotics, however life seemed to have a different plan for me.
 
