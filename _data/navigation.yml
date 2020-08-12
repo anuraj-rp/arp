@@ -1,8 +1,8 @@
 main:
   - title: "About"
-    url: /
+    url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Résumé" 
-    url: /resume/
+    #  - title: "Résumé" 
+    #url: /resume/
 

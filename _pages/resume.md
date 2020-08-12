@@ -6,5 +6,5 @@ author_profile: true
 permalink: /resume/
 ---
 
-Here is my one page résumé in [PDF]({{ site.url }}/assets/pdfs/resume.pdf) format.
+My one page résumé in [PDF]({{ site.url }}/assets/pdfs/resume.pdf) format.
 
